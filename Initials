@@ -1,0 +1,6 @@
+git init	Initialize a local Git repository
+git clone ssh://git@github.com/[username]/[repository-name].git	Create a local copy of a remote repository
+
+Or Direct from VS 
+Both ways 
+Apart from ssh we have https also
