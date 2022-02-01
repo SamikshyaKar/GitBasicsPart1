@@ -4,3 +4,10 @@ git clone ssh://git@github.com/[username]/[repository-name].git	Create a local c
 Or Direct from VS 
 Both ways 
 Apart from ssh we have https also
+
+
+# change directory to codebase
+$ cd /file/path/to/code
+
+# make directory a git repository
+$ git init
